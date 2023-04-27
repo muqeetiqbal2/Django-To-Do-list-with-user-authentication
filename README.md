@@ -1,4 +1,4 @@
-# Django To-Do List with User Authentication
+# 📝 Django To-Do List with User Authentication
 
 <p align="center"><img src="https://img.icons8.com/color/96/000000/django.png"/></p>
 
@@ -10,7 +10,7 @@
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 
-## Installation
+## 🚀 Installation
 
 To run this app on your local machine, follow these steps:
 - Clone this repository: `git clone https://github.com/your-username/Django-To-Do-list-with-user-authentication.git`
@@ -23,12 +23,12 @@ To run this app on your local machine, follow these steps:
 - Navigate to `http://localhost:8000` in your web browser to access the app.
 
 
-## Usage
+## 💻 Usage
 
 Once the app is running, users can register for an account or log in to an existing account. Once logged in, they can add, edit, and delete tasks on their to-do list.
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
 - Fork this repository.
@@ -38,6 +38,8 @@ Contributions to this project are welcome. To contribute, follow these steps:
 - Submit a pull request with a description of your changes.
 
 
-## License
+## 📝 License
 
-Meetup-Planner-Using-Django is released under the MIT License. See [LICENSE](LICENSE) for details.
+Meetup-Planner-Using-Django is released under the <a href="https://github.com/muqeetiqbal2/Django-To-Do-list-with-user-authentication/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/muqeetiqbal2/Django-To-Do-list-with-user-authentication" alt="License">
+  </a>.
