@@ -20,7 +20,7 @@ To run this app on your local machine, follow these steps:
 - Run the migrations: `python manage.py makemigration` `python manage.py migrate`
 - Create a superuser: `python manage.py createsuperuser`
 - Run the development server: `python manage.py runserver`
-- Navigate to `http://localhost:8000` in your web browser to access the app.
+- Navigate to http://localhost:8000 in your web browser to access the app.
 
 
 ## 💻 Usage
