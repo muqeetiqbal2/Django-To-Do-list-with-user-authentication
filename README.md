@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://img.icons8.com/color/96/000000/django.png"/></p>
 
-<p>This is a simple Django application that allows users to create a to-do list with user authentication. Users can create, edit, and delete tasks on their list. The app also includes user authentication, so users must register and log in to access their list.<
+<p>This is a simple Django application that allows users to create a to-do list with user authentication. Users can create, edit, and delete tasks on their list. The app also includes user authentication, so users must register and log in to access their list.</p>
 
 
 ## Version
